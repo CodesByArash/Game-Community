@@ -3,8 +3,7 @@
 This project is a **microservices-based game community platform**.  
 Currently, it includes the following services:
 
-- **Auth Service**: Handles user authentication and authorization.
-- **User Service**: Manages user data and profiles. (Built with **MongoDB**)
+- **Auth Service**: Handles user authentication and authorization, Manages user data and profiles. (Built with **MongoDB**)
 
 ### Roadmap (Planned Services)
 In the future, additional services will be added, such as:
